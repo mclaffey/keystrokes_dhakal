@@ -1,0 +1,11 @@
+*
+!.gitignore
+
+**/.ipynb_checkpoints
+
+!analysis/
+!analysis/*
+!analysis/output/*
+!paper/
+!paper/*
+
